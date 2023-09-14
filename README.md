@@ -1,10 +1,10 @@
 # OnePiece_Game
 Jogo da memória do One Piece
 
-##Link para jogar
+## Link para jogar
 (https://one-piece-memory-game.vercel.app/)
 
-##Como jogar?
+## Como jogar?
 Insira seu nome de jogador, aperte o play, encontre o par identico de pirata no menor tempo possivel, basta clicar nas cartas.
 (em breve atualizações como botão de reiniciar), para reiniciar o jogo deve apertar F5.
 
