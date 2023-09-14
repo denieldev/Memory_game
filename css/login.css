@@ -4,6 +4,8 @@
   align-items: center;
   height: 100vh;
   justify-content: center;
+  background-image: url(../images/bgmenu.jpg);
+  background-size: cover;
 }
 
 .login_header {
@@ -20,8 +22,10 @@ margin-bottom: 15px;
 }
 
 .login_header h1 {
-  color: #333;
+  color: #ffd500;
   font-size: 1.5em;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #000000;
   text-align: center;
 }
 
@@ -38,7 +42,7 @@ margin-bottom: 15px;
 }
 
 .login_button {
-  background-color: #ee665c;
+  background-color: #2da9d3;
   border-radius: 8px;
   color: #fff;
   padding: 15px;
