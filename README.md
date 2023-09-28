@@ -1,5 +1,5 @@
-# OnePiece_Game
-Jogo da memória do One Piece
+# Jogo da Memória
+Jogo da memória de animes
 
 ## Link para jogar
 (https://one-piece-memory-game.vercel.app/)
@@ -8,19 +8,19 @@ Jogo da memória do One Piece
 Insira seu nome de jogador, aperte o play, encontre o par identico de pirata no menor tempo possivel, basta clicar nas cartas.
 (em breve atualizações como botão de reiniciar), para reiniciar o jogo deve apertar F5.
 
-# Jogo da Memória do One Piece
+# Jogo da Memória anime edition
 
-Bem-vindo ao Jogo da Memória do One Piece! Este é um projeto inspirado no emocionante mundo do anime e mangá One Piece, onde você pode testar sua memória e habilidades de correspondência enquanto se diverte com seus personagens favoritos.
+Bem-vindo ao Jogo da Memória anime edition! Este é um projeto inspirado no emocionante mundo dos animes e mangás One Piece, Jujutsu Kaisen, Atack on Titã e Demon Slayer, onde você pode testar sua memória e habilidades de correspondência enquanto se diverte com seus personagens favoritos.
 
 ## Visão Geral
 
-Este jogo é uma implementação do clássico Jogo da Memória, com um toque de One Piece. O objetivo é encontrar todos os pares de cartas correspondentes antes que o tempo acabe.
+Este jogo é uma implementação do clássico Jogo da Memória, tematizado com os 4 melhores animes do ano. O objetivo é encontrar todos os pares de cartas correspondentes antes que o tempo acabe.
 
 ## Recursos Principais
 
-- **Personagens de One Piece:** As cartas apresentam imagens de personagens icônicos do mundo de One Piece, tornando o jogo uma experiência divertida para os fãs.
+- **Personagens:** As cartas apresentam imagens de personagens icônicos do universo de One Piece, Jujutsu Kaisen, Atack on Titã e Demon Slayer, tornando o jogo uma experiência divertida para os fãs.
 
-- **Dificuldade Gradual:** O jogo oferece diferentes níveis de dificuldade para desafiar jogadores de todos os níveis de habilidade.(em breve!)
+- **Dificuldade Gradual:** O jogo oferece diferentes níveis de dificuldade para desafiar jogadores de todos os níveis de habilidade.(em testes!)
 
 - **Placar de Líderes:** Veja como você se compara aos outros jogadores e tente alcançar o topo do placar de líderes.(em breve!)
 
@@ -31,7 +31,7 @@ Seu user de jogador ficará salvo até o cache ser limpo.
 
 ## Contribuições
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas, propor melhorias ou adicionar novos recursos ao jogo da memória do One Piece.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas, propor melhorias ou adicionar novos recursos ao jogo da memória anime edition.
 
 ## Tecnologias Utilizadas
 
@@ -39,16 +39,14 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas, propo
 - CSS
 - JavaScript
 
-## Sobre a Utilização de One Piece:
-Este jogo, inspirado no emocionante universo de One Piece, foi criado por um fã dedicado, com profundo respeito e admiração pela obra de Eiichiro Oda. Não tenho a menor intenção de lucrar com este projeto. Em vez disso, é uma homenagem apaixonada a uma das séries de anime e mangá mais icônicas de todos os tempos.
+## Sobre a Utilização das imagens dos animes:
+Este jogo, inspirado no emocionante nos universos dos animes/mangás de One Piece, Jujutsu Kaisen, Atack on Titã e Demon Slayer, foi criado por um fã dedicado, com profundo respeito e admiração pela obra destes mestres Eichiro Oda, Gege Akutami, Hajime Isayama e Koyoharu Gotouge. Não tenho a menor intenção de lucrar com este projeto. Em vez disso, é uma homenagem apaixonada a uma das séries de anime e mangá mais icônicas de todos os tempos.
 
-Todos os direitos de One Piece são reservados ao grande Eiichiro Oda e à Shueisha Inc. Quero enfatizar que este jogo é uma produção independente, desenvolvida por amor à história e aos personagens que Eiichiro Oda criou. Não estou associado de forma alguma à Toei Animation, à Shueisha ou a qualquer outra entidade oficial de One Piece.
+Quero enfatizar que este jogo é uma produção independente, desenvolvida por amor à história e aos personagens. Não estou associado de forma alguma as empresas portadoras dos direitos autorais ou a qualquer outra entidade oficial.
 
-Minha única intenção é proporcionar aos fãs de One Piece uma experiência divertida e envolvente, permitindo que eles interajam de forma criativa com o mundo que tanto amamos. Espero que este jogo traga alegria e entretenimento a todos os que decidirem jogá-lo.
+Minha única intenção é proporcionar aos fãs uma experiência divertida e envolvente, permitindo que eles interajam de forma criativa com o mundo que tanto amamos. Espero que este jogo traga alegria e entretenimento a todos os que decidirem jogá-lo.
 
-Agradeço a Eiichiro Oda e a todos os envolvidos na criação de One Piece por nos inspirarem com sua história incrível e personagens inesquecíveis. Este jogo é uma pequena maneira de expressar nossa gratidão por tudo o que One Piece nos deu.
-
-Que a jornada de Monkey D. Luffy e sua tripulação continue a cativar corações em todo o mundo, assim como fez conosco.
+Agradeço a cada criador destes universos e a todos os envolvidos por nos inspirarem com sua história incrível e personagens inesquecíveis. Este jogo é uma pequena maneira de expressar nossa gratidão.
 
 ## Autor
 - Daniel Martins(https://github.com/denieldev)
