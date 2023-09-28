@@ -32,7 +32,7 @@
       alert(`Parabéns, ${spanPlayer.innerHTML}! seu tempo foi: ${timer.innerHTML}`);
     }
   };
-
+ 
   const checkCards = () =>{
     const firstCharacter = firstCard.getAttribute('data-character');
     const secondCharacter = secondCard.getAttribute('data-character');
@@ -120,6 +120,9 @@ window.onload = () => {
   startTimer();
   loadGame();
 }
+
+
+
 
 
 

@@ -4,7 +4,7 @@
   align-items: center;
   height: 100vh;
   justify-content: center;
-  background-image: url(../images/bgmenu.jpg);
+  background-image: url(../images/bg_game.png);
   background-size: cover;
 }
 
@@ -21,14 +21,6 @@ width: 100px;
 margin-bottom: 15px;
 }
 
-.login_header h1 {
-  color: #ffd500;
-  font-size: 1.5em;
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: #000000;
-  text-align: center;
-}
-
 .login_input {
   border: 2px solid #333;
   border-radius: 8px;
@@ -40,12 +32,13 @@ margin-bottom: 15px;
   outline: none;
   padding: 15px;
 }
+.btn_start {
+  width: 50%;
+}
 
 .login_button {
-  background-color: #2da9d3;
+  background-color: transparent;
   border-radius: 8px;
-  color: #fff;
-  padding: 15px;
   cursor: pointer;
   font: 1em;
   max-width: 300px;
@@ -53,7 +46,14 @@ margin-bottom: 15px;
 }
 
 .login_button:disabled {
-  background-color: #eee;
-  color: #aaa;
+  filter: grayscale(100%);
+  /* color: #aaa; */
   cursor: auto;
+}
+
+.logo_game {
+  position: relative;
+  transform: scale(4);
+  top: -40px;
+  
 }
