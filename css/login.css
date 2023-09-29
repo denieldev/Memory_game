@@ -57,3 +57,16 @@ margin-bottom: 15px;
   top: -40px;
   
 }
+
+@media screen and (max-width:770px){
+  .login-form {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    background-image: url(../images/bgmobile.png);
+    background-size: cover;
+  }
+  
+}
