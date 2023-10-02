@@ -43,11 +43,16 @@ margin-bottom: 15px;
   font: 1em;
   max-width: 300px;
   width: 100%;
+  font-size: 35px;
+  background: -webkit-linear-gradient(#fd8c01, #fc0000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  cursor: pointer;
+  font-weight: 900;
 }
 
 .login_button:disabled {
-  filter: grayscale(100%);
-  /* color: #aaa; */
+  filter:grayscale(100%);
   cursor: auto;
 }
 
@@ -55,7 +60,6 @@ margin-bottom: 15px;
   position: relative;
   transform: scale(4);
   top: -40px;
-  
 }
 
 @media screen and (max-width:770px){
