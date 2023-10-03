@@ -2,7 +2,7 @@
 Jogo da memória de animes
 
 ## Link para jogar
-https://vercel.com/dmtnz/memory-game-anime-edition/Cn9VUFSrrTzfyGN4dXiCxd9rNMRe
+https://memory-game-anime-edition.vercel.app/
 
 ## Como jogar?
 Insira seu nome de jogador, aperte o play, encontre o par identico de pirata no menor tempo possivel, basta clicar nas cartas.
