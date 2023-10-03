@@ -27,9 +27,19 @@
   const checkEndGame = () =>{
     const disabledCards = document.querySelectorAll('.disabled-card');
 
-    if(disabledCards.length == 20){
+    if (disabledCards.length === 20) {
       clearInterval(this.loop);
-      alert(`Parabéns, ${spanPlayer.innerHTML}! seu tempo foi: ${timer.innerHTML}`);
+      
+      // Exibe um alerta personalizado
+      const confirmation = confirm(`Parabéns, ${spanPlayer.innerHTML}! Seu tempo foi: ${timer.innerHTML}. Deseja reiniciar o jogo?`);
+  
+      if (confirmation) {
+        // Se o jogador clicar em "OK", reinicia o jogo
+        restartGame();
+      } else {
+        // Se o jogador clicar em "Cancelar", retorna à página index.html
+        window.location.href = 'index.html';
+      }
     }
   };
  
@@ -121,9 +131,21 @@ window.onload = () => {
   loadGame();
 }
 
+const restartGame = () => {
+  // Remove todas as cartas do tabuleiro
+  const cards = document.querySelectorAll('.card');
+  cards.forEach((card) => {
+    grid.removeChild(card);
+  });
 
+  // Reinicializa as variáveis e inicia um novo jogo
+  firstCard = '';
+  secondCard = '';
+  timer.innerHTML = '0';
+  startTimer();
+  loadGame();
+};
 
-
-
-
-
+// Adicione um evento de clique ao botão "Reiniciar"
+const restartButton = document.getElementById('restart-button');
+restartButton.addEventListener('click', restartGame);
