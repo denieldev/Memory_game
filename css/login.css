@@ -103,22 +103,25 @@ margin-bottom: 15px;
   cursor: pointer;
 }
 .playgame:hover {
-  box-shadow: #ffffff 0 0 8px 4px;
   color: #ffffff;
 }
 
 @media screen and (max-width:770px){
   .login-form {
     display:flex;
-    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     align-items: center;
     height: 100vh;
     justify-content: center;
     background-image: url(../images/bgmobile.png);
     background-size: cover;
   }
-  .game, .listgame {
-    flex-direction: column;
+  .listgame {
+    display: grid;
+    grid-template-columns: 200px 200px;
+    gap: 20px;
+
   }
   
 }

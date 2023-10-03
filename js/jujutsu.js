@@ -3,19 +3,19 @@
   const timer = document.querySelector('.timer');
   const gameSong = new Audio();
 
-  gameSong.src = '../audio/BinksSake.mp3';
+  gameSong.src = '../audio/Kaikai Kitan.mp3';
 
   const characters = [
-    'Luffy',
-    'Ace',
-    'Zoro',
-    'Nami',
-    'Chopper',
-    'Mihawlk',
-    'Usopp',
-    'Boggy',
-    'Robin',
-    'Sanji',
+    'BESTOFRIEND',
+    'Gojo',
+    'Itadori',
+    'Nobara',
+    'Kento',
+    'Maki',
+    'Mahito',
+    'Megumi',
+    'Sukuna',
+    'Yuta',
   ];
 
   const createElement = (tag, className) => {
@@ -99,7 +99,7 @@
   const front = createElement('div', 'face front');
   const back = createElement('div', 'face back');
 
-  front.style.backgroundImage = `url('../images/${character}.jpg')`;
+  front.style.backgroundImage = `url('../images/JUJUTSU\ CARDS/${character}.jpg')`;
     
   card.appendChild(front);
   card.appendChild(back);
@@ -153,6 +153,9 @@ const restartGame = () => {
   loadGame();
 };
 
+
+
 // Adicione um evento de clique ao botão "Reiniciar"
 const restartButton = document.getElementById('restart-button');
 restartButton.addEventListener('click', restartGame);
+
