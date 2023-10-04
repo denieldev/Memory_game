@@ -21,7 +21,12 @@ header {
   max-width: 800px;
   margin: 0 0 10px;
   border-radius: 5px;
-  
+}
+
+.return-btn {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-weight: 400;
 }
 
 .grid {

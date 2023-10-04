@@ -32,11 +32,8 @@ margin-bottom: 15px;
   outline: none;
   padding: 15px;
 }
-.btn_start {
-  width: 50%;
-}
 
-.login_button {
+/* .login_button {
   background-color: transparent;
   border-radius: 8px;
   cursor: pointer;
@@ -49,12 +46,12 @@ margin-bottom: 15px;
   -webkit-text-fill-color: transparent;
   cursor: pointer;
   font-weight: 900;
-}
-
+} */
+/* 
 .login_button:disabled {
   filter:grayscale(100%);
   cursor: auto;
-}
+} */
 
 .logo_game {
   position: relative;
@@ -102,7 +99,12 @@ margin-bottom: 15px;
   background-color:#fd4d01;
   cursor: pointer;
 }
-.playgame:hover {
+.playgame a {
+  text-decoration: none;
+  color: #972306;
+}
+
+.playgame a:hover {
   color: #ffffff;
 }
 
