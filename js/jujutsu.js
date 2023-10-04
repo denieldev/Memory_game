@@ -41,7 +41,7 @@
         restartGame();
       } else {
         // Se o jogador clicar em "Cancelar", retorna à página index.html
-        window.location.href = 'index.html';
+        window.location.href = '../index.html';
       }
     }
   };

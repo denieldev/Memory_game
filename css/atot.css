@@ -3,11 +3,10 @@ main {
   flex-direction: column;
   width: 100%;
   min-height: 100vh;
-  background-image: url(../images/bjop.png);
+  background-image: url(../images/bjsk.png);
   background-size: cover;
   align-items: center;
   justify-content: center;
-
 }
 
 header {
@@ -15,14 +14,19 @@ header {
   align-items: center;
   justify-content: space-between;
   /* background-color: rgba(255,255,255,0.8); */
-  color: aliceblue;
+  color: rgb(1, 1, 1);
   font-weight: 900;
   font-size: 1.2em;
   width: 100%;
   max-width: 800px;
   margin: 0 0 10px;
   border-radius: 5px;
-  
+}
+
+.return-btn {
+  text-decoration: none;
+  color: rgb(11, 11, 11);
+  font-weight: 400;
 }
 
 .grid {
@@ -58,7 +62,7 @@ header {
   transform: rotateY(180deg);
 }
 .back {
-  background-image: url(../images/back\ face\ card.jpg);
+  background-image: url(../images/TITANCARDS/backfacecard.jpg);
   backface-visibility:  hidden;
 }
 

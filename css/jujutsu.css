@@ -7,7 +7,6 @@ main {
   background-size: cover;
   align-items: center;
   justify-content: center;
-  padding: 20px 20px 50px;
 }
 
 header {
@@ -20,8 +19,7 @@ header {
   font-size: 1.2em;
   width: 100%;
   max-width: 800px;
-  padding: 30px;
-  margin: 0 0 30px;
+  margin: 0 0 10px;
   border-radius: 5px;
   
 }
