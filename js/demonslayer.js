@@ -8,7 +8,7 @@
   const characters = [
     'Akaza',
     'Rui',
-    'Shinobu',
+    'shinobu',
     'Inosuke',
     'Muzan',
     'Nezuko',
