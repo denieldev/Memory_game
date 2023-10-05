@@ -10,7 +10,7 @@
     'Gojo',
     'Itadori',
     'Nobara',
-    'Kento',
+    'kento',
     'Maki',
     'Mahito',
     'Megumi',
