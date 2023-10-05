@@ -12,7 +12,7 @@
     'Mikase',
     'Eren',
     'Colosal',
-    'Levi',
+    'levi',
     'Caminhos',
     'trio',
     'Martelo',
