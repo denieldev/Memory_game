@@ -5,8 +5,8 @@ Jogo da memória de animes
 https://memory-game-anime-edition.vercel.app/
 
 ## Como jogar?
-Insira seu nome de jogador, aperte o play, encontre o par identico de pirata no menor tempo possivel, basta clicar nas cartas.
-(em breve atualizações como botão de reiniciar), para reiniciar o jogo deve apertar F5.
+Aperte o play, encontre o par identico de personagens no menor tempo possivel, basta clicar nas cartas.
+ao final do jogo caso queira jogar novamente basta apertar ok e o jogo começará novamentem, caso queira retornar ao menu, basta clicar em voltar ao menu e escolher um novo jogo dentre as opções.
 
 # Jogo da Memória anime edition
 
@@ -20,7 +20,7 @@ Este jogo é uma implementação do clássico Jogo da Memória, tematizado com o
 
 - **Personagens:** As cartas apresentam imagens de personagens icônicos do universo de One Piece, Jujutsu Kaisen, Atack on Titã e Demon Slayer, tornando o jogo uma experiência divertida para os fãs.
 
-- **Dificuldade Gradual:** O jogo oferece diferentes níveis de dificuldade para desafiar jogadores de todos os níveis de habilidade.(em testes!)
+- **Dificuldade Gradual:** O jogo oferece diferentes níveis de dificuldade para desafiar jogadores de todos os níveis de habilidade.(em breve)
 
 - **Placar de Líderes:** Veja como você se compara aos outros jogadores e tente alcançar o topo do placar de líderes.(em breve!)
 
